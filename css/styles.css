@@ -1,0 +1,39 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	background: linear-gradient(to bottom, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%);
+}
+
+p {
+	color: lightslategray;
+}
+
+h1 {
+	text-align: center;
+    margin-right: 25%;
+}
+
+#my-resume {
+	padding-left: 25%;
+	padding-right: 25%;
+}		
+
+#presentation-image {
+	padding-left: 25%;
+}
+
+.profile {
+	width: 300px;
+	border-radius: 2em;
+	box-shadow: 0 0 10px grey;
+}
+
+.subtitle {
+	color: darkslategray;
+}
+
+.columns {
+	column-count: 2;
+	column-gap: 5%;
+}
+
+
